@@ -1,1 +1,1 @@
-# TnC-Pharmacy
+# TnC-Pharmacy landing page
